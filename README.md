@@ -49,7 +49,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aya-zariat)
 - 💬 Telegram: [@ayazariat](https://t.me/ayazariat)
-- 📧 Email: ayazariat@gmail.com *(replace with your real one)*
+- 📧 Email: ayazariat@gmail.com 
 
 ---
 
