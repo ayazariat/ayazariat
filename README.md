@@ -42,8 +42,6 @@
 - 🔭 Currently interning on a **Spring Boot + Angular** web app project  
 - 🌱 I'm expanding my knowledge in **DevOps**, **Frontend**, and **Database Design**  
 - 💬 Ask me about **Web Development**, **Java**, **Linux**, or even **movies**  
-- ⚡ Fun fact: Debugging with coffee is 2x faster ☕  
-
 ---
 
 ### 📈 GitHub Stats
@@ -59,7 +57,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aya-zariat)
 - 💬 Telegram: [@ayazariat](https://t.me/ayazariat)
-- 📧 Email: aya.zariat@example.com *(replace with your real one)*
+- 📧 Email: ayazariat@gmail.com *(replace with your real one)*
 
 ---
 
