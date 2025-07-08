@@ -9,15 +9,6 @@
 
 ---
 
-### 🎧 Currently Coding & Vibing to:
-
-<details>
-<summary><strong>Now Playing</strong></summary>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
-</details>
-
----
 
 ### 🛠️ Tools & Technologies
 
@@ -40,8 +31,9 @@
 ### 👩‍💻 About Me
 
 - 🔭 Currently interning on a **Spring Boot + Angular** web app project  
-- 🌱 I'm expanding my knowledge in **DevOps**, **Frontend**, and **Database Design**  
-- 💬 Ask me about **Web Development**, **Java**, **Linux**, or even **movies**  
+- 🌱 I'm expanding my knowledge in **Frontend Development**, **Backend with Java**, and **Database Design**  
+- 💬 Ask me about **Web Development**, **Java**, **PostgreSQL**, or even **movies**
+
 ---
 
 ### 📈 GitHub Stats
